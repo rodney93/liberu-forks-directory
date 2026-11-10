@@ -1,32 +1,25 @@
 # Liberu Software – Forked Repositories
 
-Welcome to my Liberu Software forked repositories directory.
+A centralized directory of my forked repositories from the Liberu Software organization.
 
-This repository serves as a central index for organizing and accessing projects forked from the Liberu Software GitHub organization.
+## 1. Laravel Projects
 
-## Repository Categories
+- [project-cms-laravel-filament](https://github.com/rodney93/project-cms-laravel-filament)
 
-### 1. Laravel Projects
+## 2. E-Commerce Projects
+
+- [project-ecommerce-laravel-filament](https://github.com/rodney93/project-ecommerce-laravel-filament)
+
+## 3. Genealogy Projects
+
+- [genealogy-laravel](https://github.com/rodney93/genealogy-laravel)
+
+## 4. Other Liberu Projects
+
 - Add repository links here.
-
-### 2. E-Commerce Projects
-- Add repository links here.
-
-### 3. Genealogy Projects
-- Add repository links here.
-
-### 4. Other Liberu Projects
-- Add repository links here.
-
-## Purpose
-
-- Keep Liberu Software forks separate from personal repositories.
-- Organize forked projects by category.
-- Easily access repositories for development and contributions.
-- Track my development activities.
 
 ---
 
-Maintained by Rodney Ducay
+**Maintained by Rodney Ducay**
 
 GitHub: https://github.com/rodney93
